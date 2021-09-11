@@ -1,0 +1,11 @@
+/bin/
+/target/
+/.settings/
+/.classpath/
+/dependency-reduced-pom.xml
+/data/
+/logs/
+/cfg/
+/export/
+/import/
+/include/
