@@ -1,0 +1,5306 @@
+[
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Admin",
+    "path": "command-category.admin.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Backups",
+    "path": "command-category.backups.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kanalverwaltung",
+    "path": "command-category.channel-management.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spaß",
+    "path": "command-category.fun.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Begrüßer",
+    "path": "command-category.greeter.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Info",
+    "path": "command-category.info.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Moderation",
+    "path": "command-category.moderation.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Musik",
+    "path": "command-category.music.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Premium",
+    "path": "command-category.premium.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aufnahme",
+    "path": "command-category.record.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Reddit",
+    "path": "command-category.reddit.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Meldung",
+    "path": "command-category.report.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rollenverwaltung",
+    "path": "command-category.role-management.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Skripten",
+    "path": "command-category.scripting.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Twitch",
+    "path": "command-category.twitch.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Twitter",
+    "path": "command-category.twitter.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Frag den Magic 8 Ball etwas",
+    "path": "command.8ball.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}8ball <Frage>",
+    "path": "command.8ball.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Mit der Hilfe unserer atemberaubenden Mitwirkenden :gift_heart:",
+    "path": "command.about.contributors.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schau dir meine Visitenkarte an :credit_card:",
+    "path": "command.about.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entwickler",
+    "path": "command.about.developers.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Discord API Library",
+    "path": "command.about.discord-library.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verwendete APIs",
+    "path": "command.about.libraries.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Name",
+    "path": "command.about.name.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Patreon",
+    "path": "command.about.patreon.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Serverzahl",
+    "path": "command.about.server-count.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Shardanzahl",
+    "path": "command.about.shard-count.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Meine Visitenkarte",
+    "path": "command.about.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Twitter",
+    "path": "command.about.twitter.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}about",
+    "path": "command.about.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Homepage",
+    "path": "command.about.website.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Macht eine Rolle für alle Benutzer zugänglich (bspw. solche wie \"kein-nsfw\")",
+    "path": "command.accessrole.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}accessrole add <@Role>",
+    "path": "command.accessrole.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Rolle {role} wurde für {everyone} zugänglich gemacht",
+    "path": "command.accessrole.added-accessible-role"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diese Rolle wurde bereits für alle zugänglich gemacht",
+    "path": "command.accessrole.already-accessible"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diese Rolle ist momentan nicht öffentlich zugänglich",
+    "path": "command.accessrole.already-removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Mache Rollen für alle Benutzer zugänglich",
+    "path": "command.accessrole.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt eine Liste mit allen zugänglichen Rollen an",
+    "path": "command.accessrole.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zugängliche Rollen",
+    "path": "command.accessrole.list.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}accessrole list",
+    "path": "command.accessrole.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es keine zugänglichen Rollen",
+    "path": "command.accessrole.no-accessroles"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne eine zugängliche Rolle",
+    "path": "command.accessrole.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}accessrole remove <@Rolle>",
+    "path": "command.accessrole.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} wurde von der Liste an zugänglichen Rollen entfernt",
+    "path": "command.accessrole.removed-accessible-role"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "In deinem Kanal läuft bereits eine Runde Among Us",
+    "path": "command.amongus.create.already-exists"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle eine Among Us-Runde in deinem Sprachkanal",
+    "path": "command.amongus.create.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Überprüfe deinen privaten Chat :blush: :wink:",
+    "path": "command.amongus.create.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du musst dich in einem Sprachkanal befinden, um eine Among Us-Runde zu erstellen",
+    "path": "command.amongus.create.not-in-voicechannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}amongus create",
+    "path": "command.amongus.create.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele ein wenig Among Us mit deinen Freunden",
+    "path": "command.amongus.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verbinde einen Among Us-Spieler mit seinem Discord-Account",
+    "path": "command.amongus.link.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültige Farbe\/Spieler",
+    "path": "command.amongus.link.invalid-color-or-player"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieses Mitglied ist nicht in dem Sprachkanal für die Among Us-Runde",
+    "path": "command.amongus.link.member-not-in-voicechannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Benutzer ist kein Mitglied dieses Servers",
+    "path": "command.amongus.link.not-a-member"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}amongus link <@User> <Farbe | Name>",
+    "path": "command.amongus.link.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du musst in einem Sprachkanal mit einer laufenden Among Us-Runde sein",
+    "path": "command.amongus.not-in-valid-voicechannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Beendet die aktuelle Among Us-Runde ab",
+    "path": "command.amongus.stop.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du bist nicht der Ersteller von dieser Among Us-Runde",
+    "path": "command.amongus.stop.not-capture-user"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}amongus stop",
+    "path": "command.amongus.stop.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst keinen Autokanal aus einem Autokanal erstellen! :confounded:",
+    "path": "command.autochannel.autochannel-error"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du wirst in Sprachkanälen ertrinken",
+    "path": "command.autochannel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "`{channel_name}` ist nun kein Autokanal mehr",
+    "path": "command.autochannel.disabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Graphite wird nun `{channel_name}` automatisch duplizieren, wenn diesem Kanal jemand beitritt",
+    "path": "command.autochannel.enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}autochannel <#!Sprachkanal>",
+    "path": "command.autochannel.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst keinen Autokanal aus einem Benutzerkanal erstellen!",
+    "path": "command.autochannel.userchannel-error"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Füge eine Autorolle hinzu",
+    "path": "command.autorole.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}autorole add <@Rolle>",
+    "path": "command.autorole.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} als Autorolle hinzugefügt",
+    "path": "command.autorole.added-autorole"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diese Rolle ist bereits eine Autorolle",
+    "path": "command.autorole.already-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diese Rolle ist nicht auf der Liste",
+    "path": "command.autorole.already-removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Füge Rollen hinzu, die Benutzer automatisch bekommen, wenn sie dem Server beitreten",
+    "path": "command.autorole.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eine Liste mit allen Rollen, die ein Benutzer automatisch bekommt, wenn er deinem Server beitritt :person_walking:",
+    "path": "command.autorole.list-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt eine Liste aller Autorollen an",
+    "path": "command.autorole.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}autorole list",
+    "path": "command.autorole.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es keine Autorollen",
+    "path": "command.autorole.no-autoroles"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne eine Autorolle",
+    "path": "command.autorole.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}autorole remove <@Rolle>",
+    "path": "command.autorole.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} wurde von der Liste der Autorollen entfernt",
+    "path": "command.autorole.removed-autorole"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Fehlgeschlagen",
+    "path": "command.backup.cancel-failure.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Bot ist gerade nicht dabei, ein Backup zu klonen\/wiederherzustellen",
+    "path": "command.backup.cancel-failure.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Breche die aktuelle Wiederherstellung oder das Klonen eines Backups ab",
+    "path": "command.backup.cancel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup cancel",
+    "path": "command.backup.cancel.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Abgebrochen",
+    "path": "command.backup.cancelled.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Klonen\/Wiederherstellen eines Backups erfolgreich beendet",
+    "path": "command.backup.cancelled.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich kann das Backup nicht finden :cry:",
+    "path": "command.backup.cant-find.backup.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ein Backup mit der angegebenen ID existiert nicht. Stelle sicher, dass du die richtige ID eingegeben hast.",
+    "path": "command.backup.cant-find.backup.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kann den Server nicht finden.",
+    "path": "command.backup.copy.cant-find.server.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Einen Server mit der angegebenen ID gibt es nicht. Stelle sicher, dass die angegebene ID korrekt ist.",
+    "path": "command.backup.copy.cant-find.server.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kopiere ein Backup von einem anderen Server.",
+    "path": "command.backup.copy.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Fehlende Berechtigung",
+    "path": "command.backup.copy.missing-permission.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du benötigst eine der folgenden Berechtigungen auf dem Quell-Server, um ein Backup zu kopieren: `backup.copy-to-other`, `backup.*` oder `*`",
+    "path": "command.backup.copy.missing-permission.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup copy <Quell-Server-ID> <Name des Backups>",
+    "path": "command.backup.copy.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle ein Backup",
+    "path": "command.backup.create.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Da dein Backup Nachrichten beinhaltet, welche verschlüsselt werden, benötigst du einen Schlüssel, damit du die Nachrichten wiederherstellen kannst.\nDie gespeicherten Nachrichten werden automatisch nach 30 Tagen wieder entfernt.\n[weitere Informationen]({faq})",
+    "path": "command.backup.create.key-description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup create [Anzahl der zu speichernden Nachrichten]",
+    "path": "command.backup.create.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Befehle",
+    "path": "command.backup.created.field-1.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verwende `{prefix}help backup [Unterbefehl]` um zu sehen, wie du mit deinem neuen Backup interagieren kannst. Ein anderer einfacher Weg, deine Backups zu verwalten, ist unser [Webinterface]({webinterface}).",
+    "path": "command.backup.created.field-1.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Backup erstellt",
+    "path": "command.backup.created.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Backup-Name: `{backup_name}`",
+    "path": "command.backup.created.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Backup wird erstellt...",
+    "path": "command.backup.creating.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Server-Backup wird erstellt. Dies könnte etwas dauern.",
+    "path": "command.backup.creating.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lösche das Backup mit dem angegebenen Namen",
+    "path": "command.backup.delete.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup delete <Backup-Name>",
+    "path": "command.backup.delete.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Backup gelöscht",
+    "path": "command.backup.deleted"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle ein paar nice backups",
+    "path": "command.backup.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kanäle",
+    "path": "command.backup.info.channel-field.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeige Informationen über das Backup an",
+    "path": "command.backup.info.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kanäle\/Rollen des Backups {backup_name}",
+    "path": "command.backup.info.message.author"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rollen",
+    "path": "command.backup.info.role-field.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{roles}",
+    "path": "command.backup.info.role-field.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup info <Backup-Name>",
+    "path": "command.backup.info.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Setze das Intervall für automatische Backups (in Tagen)",
+    "path": "command.backup.interval.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Intervall gesetzt",
+    "path": "command.backup.interval.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup interval <Intervall in Tagen>",
+    "path": "command.backup.interval.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Graphite wird nun alle `{interval}` Tage ein Backup für dich erstellen",
+    "path": "command.backup.interval.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es konnte kein Backup mit dem angegebenen Namen gefunden werden",
+    "path": "command.backup.invalid-backup"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültiges Intervall",
+    "path": "command.backup.invalid-interval"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültiger Schlüssel",
+    "path": "command.backup.invalid-key.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der angehängte Backup-Schlüssel ist inkorrekt. Bitte überprüfe, ob du den richtigen Schlüssel angehängt hast.",
+    "path": "command.backup.invalid-key.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Backup-Limit erreicht",
+    "path": "command.backup.limit-reached.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast das Maximum an möglichen Backups erreicht. Durch eine kleine Spende bekommst du die Möglichkeit weitere Backups anzulegen. Schau dir unsere [Patreon]({patreon})-Seite für weitere Informationen an.",
+    "path": "command.backup.limit-reached.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt eine Liste an erstellten Backups an",
+    "path": "command.backup.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "```Erstellte Backups: \n\n{backups}```",
+    "path": "command.backup.list.list"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup list",
+    "path": "command.backup.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es hier keine Backups",
+    "path": "command.backup.no-backups.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Fehler",
+    "path": "command.backup.not-highest-role.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Um Rollen korrekt zu klonen\/wiederherzustellen, muss die Graphite-Rolle über allen Benutzerrollen sein",
+    "path": "command.backup.not-highest-role.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstellungs-Limit",
+    "path": "command.backup.ratelimit.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bitte komm mal runter und warte {time}",
+    "path": "command.backup.ratelimit.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ein Backup mit dem angegebenen Namen existiert bereits",
+    "path": "command.backup.rename.already-exists"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benenne ein Backup um",
+    "path": "command.backup.rename.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Name des Backups kann nur alphanumerische Symbole und `-`, `_` oder ` ` beinhalten",
+    "path": "command.backup.rename.invalid-name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Backup `{name}` wurde in `{new_name}` umbenannt",
+    "path": "command.backup.rename.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup rename <Backup-Name> <neuer Backup-Name>",
+    "path": "command.backup.rename.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Stelle das Backup mit der gegebenen ID wieder her",
+    "path": "command.backup.restore.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup restore <Backup-Name> [(+ angehängte Schlüssel-Datei)]",
+    "path": "command.backup.restore.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Backup wurde erfolgreich wiederhergestellt. Dies hat `{time_taken}` gedauert.",
+    "path": "command.backup.restored"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wiederherstellung fehlgeschlagen",
+    "path": "command.backup.restoring-failed.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ojemine!",
+    "path": "command.backup.template.cant-delete.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dies ist nicht deine Template! Deshalb kannst du sie nicht löschen. Wenn du denkst, dass diese Template nutzlos ist oder Inhalt enthält, der gegen Discords ToS verstößt, dann melde das bitte auf unserem [Discord-Server]({discord})",
+    "path": "command.backup.template.cant-delete.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle ein öffentliches Template-Backup",
+    "path": "command.backup.template.create.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup template create <Backup-Name> <Name> [Beschreibung]",
+    "path": "command.backup.template.create.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Template wurde erstellt",
+    "path": "command.backup.template.created.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Template-ID: {template_id}",
+    "path": "command.backup.template.created.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lösche dein öffentliches Template-Backup",
+    "path": "command.backup.template.delete.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup template delete <Template-ID>",
+    "path": "command.backup.template.delete.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Template gelöscht",
+    "path": "command.backup.template.deleted"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Teile deine Backups mit der gesamten Welt",
+    "path": "command.backup.template.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Beschreibung zu lang. Maximal: `{max_chars}` Zeichen",
+    "path": "command.backup.template.description-too-long"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Laden der Template ist fehlgeschlagen",
+    "path": "command.backup.template.load-failed.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lade ein öffentliches Template-Backup",
+    "path": "command.backup.template.load.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup template load <Template-ID>",
+    "path": "command.backup.template.load.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Name ist zu lang. Maximal: `{max_chars}` Zeichen",
+    "path": "command.backup.template.name-too-long"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Suche nach einer Template",
+    "path": "command.backup.template.search.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{name}",
+    "path": "command.backup.template.search.results-field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "ID: `{id}`\nBeschreibung: `{description}`",
+    "path": "command.backup.template.search.results-field-value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Suchergebnis(se) für `{query}`",
+    "path": "command.backup.template.search.results-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}backup template search <Name>",
+    "path": "command.backup.template.search.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültige Anzahl an Nachrichten",
+    "path": "command.backup.too-many-messages.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültige Anzahl an Nachrichten. Du kannst maximal `100` Nachrichten pro Kanal abspeichern.",
+    "path": "command.backup.too-many-messages.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Füge eine Botrolle hinzu",
+    "path": "command.botrole.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}botrole add <@Rolle>",
+    "path": "command.botrole.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} als Botrolle hinzugefügt",
+    "path": "command.botrole.added-botrole"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Rolle ist bereits auf der Liste der Botrollen",
+    "path": "command.botrole.already-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diese Rolle ist nicht auf der Liste :thinking:",
+    "path": "command.botrole.already-removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Füge Rollen hinzu, die Bots automatisch bekommen, wenn sie dem Server beitreten",
+    "path": "command.botrole.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eine Liste an Rollen, die automatisch an Bots gegeben werden, wenn sie diesem Server beitreten",
+    "path": "command.botrole.list-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle Botrollen an",
+    "path": "command.botrole.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}botrole list",
+    "path": "command.botrole.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es keine Botrollen",
+    "path": "command.botrole.no-botroles"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne eine Botrolle",
+    "path": "command.botrole.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}botrole remove <@Rolle>",
+    "path": "command.botrole.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} von der Liste der Botrollen entfernt",
+    "path": "command.botrole.removed-botrole"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kopiere die Einstellungen von einer Kategorie in eine andere",
+    "path": "command.categorycopy.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Alle Berechtigungen von `{from_category}` zu `{to_category}` kopiert",
+    "path": "command.categorycopy.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}categorycopy :<Kategorie> :<Kategorie>",
+    "path": "command.categorycopy.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bitrate",
+    "path": "command.channelinfo.bitrate.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt Informationen über den angegebenen Kanal an",
+    "path": "command.channelinfo.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "ID",
+    "path": "command.channelinfo.id.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Name",
+    "path": "command.channelinfo.name.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "(keine Kategorie)",
+    "path": "command.channelinfo.parent.no-parent"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kategorie",
+    "path": "command.channelinfo.parent.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Region",
+    "path": "command.channelinfo.region.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Inaktiv",
+    "path": "command.channelinfo.slowmode.off"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Langsamer Modus :sloth:",
+    "path": "command.channelinfo.slowmode.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Alle wichtigen Informationen über {channel}",
+    "path": "command.channelinfo.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "*Kein Thema*",
+    "path": "command.channelinfo.topic.no-topic"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Thema",
+    "path": "command.channelinfo.topic.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}channelinfo <#!Kanal>",
+    "path": "command.channelinfo.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzerlimit",
+    "path": "command.channelinfo.user-limit.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "∞",
+    "path": "command.channelinfo.user-limit.unlimited"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":mute:",
+    "path": "command.chatmute.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer {user} stummgeschaltet: `{reason}`",
+    "path": "command.chatmute.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}chatmute <@Member>",
+    "path": "command.chatmute.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Melde einen Chatauszug von 100 Nachrichten",
+    "path": "command.chatreport.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du musst Chatreports erst auf unserem [Webinterface]({webinterface}) aktivieren. Du erhältst dann einen Schlüssel, welchen du brauchst, um alle künftigen Chatmeldungen einzusehen",
+    "path": "command.chatreport.not-enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Chatverlauf dieses Kanals wurde gemeldet. Der Chatverlauf kann auf unserem [Webinterface]({webinterface}) eingesehen werden.",
+    "path": "command.chatreport.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}chatreport",
+    "path": "command.chatreport.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entfernt die Chatmeldung mit dem angegebenen Index",
+    "path": "command.chatreports-remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}chatreports remove <Index>",
+    "path": "command.chatreports-remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Liste aller momentan existierenden Chatreports",
+    "path": "command.chatreports.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle zurzeit bestehenden Chatmeldungen an",
+    "path": "command.chatreports.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es {chatreports} Chatmeldung(en)",
+    "path": "command.chatreports.list.field.footer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "**[#{index}]** Chatmeldung von `{reporter}`",
+    "path": "command.chatreports.list.field.head"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es keine Chatmeldungen. Alles ist in Ordnung! :slight_smile:",
+    "path": "command.chatreports.list.no-reports"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}chatreports list",
+    "path": "command.chatreports.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Chatmeldung Nummer `{index}` erfolgreich entfernt",
+    "path": "command.chatreports.remove.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erlaube einem Mitglied, im Textkanal wieder zu schreiben",
+    "path": "command.chatunmute.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}chatunmute <@Member> [Grund]",
+    "path": "command.chatunmute.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Chuck Norris kennt seine Grenzen: Er hat keine",
+    "path": "command.chucknorris.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}chucknorris",
+    "path": "command.chucknorris.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Reinige deinen Chatverlauf :put_litter_in_its_place:",
+    "path": "command.clear.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es ist leider nicht möglich weniger als eine oder mehr als 99 Nachrichten zu löschen",
+    "path": "command.clear.invalid-amount"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":boom: BOOOM! Die letzten `{amount}` Nachrichten wurden weggesprengt! :radioactive:",
+    "path": "command.clear.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}clear <Anzahl>",
+    "path": "command.clear.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Löscht alle Nachrichten (bis zu 1000 Nachrichten auf einmal) :radioactive:",
+    "path": "command.clearall.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":boom: BOOOM! Alle Nachrichten wurden entfernt! :put_litter_in_its_place:",
+    "path": "command.clearall.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}clearall",
+    "path": "command.clearall.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lasst uns eine Münze werfen",
+    "path": "command.coinflip.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Münze ist auf ihrer Seite gelandet (Es gibt nur eine Chance von 1 in 6000, dass eine amerikanische 5-Cent-Münze auf ihrer Seite landet!)",
+    "path": "command.coinflip.side"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}coinflip",
+    "path": "command.coinflip.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle einen Laplace-Würfel",
+    "path": "command.dice.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}dice",
+    "path": "command.dice.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt eine Liste aller Spender an",
+    "path": "command.donators.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es keine Sponsoren. Willst du unsere Arbeit unterstützen? (Patreon)[{patreon}]",
+    "path": "command.donators.empty"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Danke für die Unterstützung :heart:",
+    "path": "command.donators.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}donators",
+    "path": "command.donators.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt deine gefundenen Easter Eggs an",
+    "path": "command.eastereggs.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast {amount} der {total_amount} Easter Eggs gefunden\nAnmerkung: Einige Easter Eggs können nur gefunden werden, wenn du [Graphite](https:\/\/graphite-official.com\/faq.php) verwendest",
+    "path": "command.eastereggs.mystery.footer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "???",
+    "path": "command.eastereggs.mystery.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wenn ich es dir verrate ist es doch kein Easter Egg mehr...",
+    "path": "command.eastereggs.mystery.value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}eastereggs",
+    "path": "command.eastereggs.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt Informationen über einen spezifischen Emote an",
+    "path": "command.emoteinfo.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Discord Emote ID: `{id}`\nRoher Discord emote: `{raw}`",
+    "path": "command.emoteinfo.emote"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "EMOTE INFORMATIONEN\n\nEingebettetes Java: `{escaped_java}`\nEingebettetes HTML: `{escaped_html}`",
+    "path": "command.emoteinfo.unicode"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}emoteinfo <emote>",
+    "path": "command.emoteinfo.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt einen Link zu unserer FAQ-Seite an",
+    "path": "command.faq.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}faq",
+    "path": "command.faq.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Abschiedsgruß ist bereits deaktiviert",
+    "path": "command.farewell.already-disabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Abschiedsgruß ist bereits aktiviert",
+    "path": "command.farewell.already-enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verabschiedungskanal ist: {channel}",
+    "path": "command.farewell.channel-set"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Gib einen Kanal an, in welchem die Abschiedsgrüße geschickt werden sollen",
+    "path": "command.farewell.channel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}farewell channel <#Textkanal>",
+    "path": "command.farewell.channel.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aktueller Abschiedsgruß: `{message}`",
+    "path": "command.farewell.current-message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lebe wohl {user}, es war schön mit dir. Wir werden die gemeinsame Zeit nie vergessen :cry:",
+    "path": "command.farewell.default-message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verabschiede Benutzer, die den Server verlassen",
+    "path": "command.farewell.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Deaktiviere den Abschiedsgruß für deinen Server",
+    "path": "command.farewell.disable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}farewell disable",
+    "path": "command.farewell.disable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Abschiedsgruß deaktiviert",
+    "path": "command.farewell.disabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aktiviere den Abschiedsgruß für deinen Server",
+    "path": "command.farewell.enable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}farewell enable",
+    "path": "command.farewell.enable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Abschiedsgruß aktiviert",
+    "path": "command.farewell.enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Neuer Abschiedsgruß: `{message}`",
+    "path": "command.farewell.message-set"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schicke einen Abschiedsgruß",
+    "path": "command.farewell.message.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}farewell message <Abschiedsgruß (erlaubte Platzhalter: {user}, {server})>",
+    "path": "command.farewell.message.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bekomme eine zugängliche Rolle",
+    "path": "command.getrole.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diese Rolle ist nicht zugänglich!",
+    "path": "command.getrole.role-not-accessible"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast nun die Rolle {role}",
+    "path": "command.getrole.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}getrole <@Rolle>",
+    "path": "command.getrole.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Begrüßungsnachricht bereits deaktiviert",
+    "path": "command.greeting.already-disabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Begrüßungsnachricht wurde bereits aktiviert",
+    "path": "command.greeting.already-enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Begrüßungskanal ist jetzt: {channel}",
+    "path": "command.greeting.channel-set"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Gib einen Kanal an, in dem die Begrüßungsnachrichten gesendet werden",
+    "path": "command.greeting.channel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}greeting channel <#Textkanal | user>",
+    "path": "command.greeting.channel.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aktuelle Begrüßungsnachricht: `{message}`",
+    "path": "command.greeting.current-message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Willkommen {mention} auf unserem Server {server}",
+    "path": "command.greeting.default-message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Heiße neue Servermitglieder Willkommen",
+    "path": "command.greeting.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Deaktiviere die Begrüßungsnachrichten für deinen Server",
+    "path": "command.greeting.disable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}greeting disable",
+    "path": "command.greeting.disable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Begrüßungsnachricht deaktiviert",
+    "path": "command.greeting.disabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aktiviere die Begrüßungsnachrichten für deinen Server",
+    "path": "command.greeting.enable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}greeting enable",
+    "path": "command.greeting.enable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Begrüßungsnachricht aktiviert",
+    "path": "command.greeting.enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Neue Begrüßungsnachricht: `{message}`",
+    "path": "command.greeting.message-set"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Heiße neue Freunde Willkommen",
+    "path": "command.greeting.message.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}greeting message <Nachricht (erlaubte Platzhalter: {mention}, {user}, {server})>",
+    "path": "command.greeting.message.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wenn du für den Hilfebefehl Hilfe brauchst, bist du richtig lost :exploding_head:",
+    "path": "command.help.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Warum suchst du nach nicht existenten Befehlen? Magst du Kekse? [:cookie:](http:\/\/orteil.dashnet.org\/cookieclicker\/)",
+    "path": "command.help.invalid-command"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Befehl",
+    "path": "command.help.message.command"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eigener Befehl (Aktionen: {actions})",
+    "path": "command.help.message.customcommand-actions"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Beschreibung",
+    "path": "command.help.message.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutze {prefix}help um eine Liste aller Befehle zu sehen \/ <> - erforderlich, [] - optional",
+    "path": "command.help.message.footer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "**Brauchst du Unterstützung? Komm doch auf unseren [Discord-Server]({discord})**\n**[Lade]({invite}) den Bot auf deinen Server [ein]({invite})**\n\nDu kannst uns auch mit einer Spende auf [Patreon]({patreon}) unterstützen\n\n**Anmerkung:** Für genauere Informationen verwende den `{prefix}help <Befehl>` Befehl. Eine Liste mit allen Befehlen, Beschreibungen und deren Berechtigungen können auf unserer Website gefunden werden: [graphite-official.com]({website})",
+    "path": "command.help.message.general-info"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":interrobang: Owe, das sollte nicht hier sein. Bitte melde diesen Fehler.",
+    "path": "command.help.message.missing-usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Berechtigung",
+    "path": "command.help.message.permission"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}{command_name} {subcommands} [...]",
+    "path": "command.help.message.subcommands"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verwendung",
+    "path": "command.help.message.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Pssst. Bitte schau mal in unseren privaten Chatverlauf. :smirk:",
+    "path": "command.help.sent"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}help",
+    "path": "command.help.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lade mich auf jeden Server ein, den du besitzt (und auch die Server deiner Freunde)",
+    "path": "command.invite.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "[**Lade**]({invite_url}) mich auf deinen Server [**ein**]({invite_url}) :hearts:",
+    "path": "command.invite.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}invite",
+    "path": "command.invite.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sperre jemandem in seinem Sprachkanal ein :lock:",
+    "path": "command.jail.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieser Benutzer ist bereits eingesperrt",
+    "path": "command.jail.error.already-jailed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst hier niemanden einsperren, weil das ein Autokanal ist, welcher gelöscht wird, wenn niemand mehr darin ist",
+    "path": "command.jail.error.autochannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst hier niemanden einsperren, weil das ein Userkanal ist, welcher gelöscht wird, wenn niemand mehr darin ist",
+    "path": "command.jail.error.userchannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du wurdest weggesperrt und kannst dich nicht mehr zwischen den Sprachkanälen bewegen. (Du wirst gekickt, wenn du es dennoch versuchst. Versuche: {attempts}\/{max_attempts})",
+    "path": "command.jail.jailed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du wurdest aus dem Sprachkanal gekickt und kannst nur noch dem Sprachkanal beitreten, in dem du eingesperrt wurdest",
+    "path": "command.jail.kicked"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Benutzer ist nun im Sprachkanal `{channel}` eingesperrt und wartet auf seine Freilassung",
+    "path": "command.jail.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}jail <@Member> [#!Sprachkanal]",
+    "path": "command.jail.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schau dir deine Schlüsselsammlung an :key:",
+    "path": "command.keys.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schlüssel: `{key}`",
+    "path": "command.keys.field.head"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Typ: `{type}`\nPremium Level: `{level}`\nBeschreibung: `{description}`\nLäuft ab in: `{time}`\nBenutzt von: `{user}`",
+    "path": "command.keys.field.values"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment hast du keine Schlüssel",
+    "path": "command.keys.no-keys"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}keys",
+    "path": "command.keys.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lösche eine eigene Lokalisierungsdatei",
+    "path": "command.locale.delete.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Sprache, die du versuchst zu löschen existiert nicht oder ist eine Standardsprache",
+    "path": "command.locale.delete.invalid-locale"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sprache `{locale}` erfolgreich gelöscht",
+    "path": "command.locale.delete.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}locale delete <Sprachkürzel>",
+    "path": "command.locale.delete.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ändere die Sprache für deinen Server",
+    "path": "command.locale.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lade eine Sprache herunter um sie abzuändern",
+    "path": "command.locale.download.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{amount} Nachrichten können abgeändert werden",
+    "path": "command.locale.download.footer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wie kann man seine eigene Sprache erstellen?",
+    "path": "command.locale.download.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}locale download [Sprache]",
+    "path": "command.locale.download.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schritt 1: Verwende {prefix}locale download [Sprache]\nSchritt 2: Ändere die Nachrichten ab\nSchritt 3: Lade die Datei per Drag&Drop im Chat hoch und nutze {prefix}locale upload <Sprachkürzel> als Beschreibung\nSchritt 4: Verwende {prefix}locale <Sprachkürzel> um die Sprache auszuwählen",
+    "path": "command.locale.download.values"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültiges Sprachkürzel",
+    "path": "command.locale.invalid-locale"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle verfügbaren Sprachen an",
+    "path": "command.locale.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}locale list",
+    "path": "command.locale.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ändere die Sprache des Bots für deinen Server",
+    "path": "command.locale.set.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sprache zu `{locale}` geändert",
+    "path": "command.locale.set.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}locale set <Sprache>",
+    "path": "command.locale.set.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eine Sprache mit dieser Abkürzung existiert bereits, möchtest du diese überschreiben?",
+    "path": "command.locale.upload.already-exists"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lade deine eigene Sprache hoch",
+    "path": "command.locale.upload.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Datei, die du versucht hast hochzuladen... :thinking: ... Die ist kaputt :broken_heart:",
+    "path": "command.locale.upload.invalid-file"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Abkürzung für deine Sprache entspricht nicht unseren Anforderungen (bis zu 16 alphanumerische Zeichen und Unterstriche sind erlaubt)",
+    "path": "command.locale.upload.invalid-short"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Deine Sprache wurde erfolgreich hochgeladen. Wähle sie mit `{prefix}locale set {locale}` aus",
+    "path": "command.locale.upload.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}locale upload <Sprachkürzel> (+ angehängte Sprach-Datei)",
+    "path": "command.locale.upload.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verfügbare Meme-Kategorien: `{meme_categories}`",
+    "path": "command.meme.available"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sucht im Internet nach ein paar lustigen Memes",
+    "path": "command.meme.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}meme",
+    "path": "command.meme.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst dem Spiel nicht beitreten, da es entweder voll ist, bereits läuft oder beendet wurde",
+    "path": "command.minigame.cant-join"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele unsere netten Minispiele alleine oder mit deinen Freunden",
+    "path": "command.minigame.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst keine Bots einladen",
+    "path": "command.minigame.invite.bots"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lade deine Freunde zu einem Minispiel ein",
+    "path": "command.minigame.invite.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer {user} konnte nicht eingeladen werden, da er seinen privaten Chat deaktiviert hat",
+    "path": "command.minigame.invite.failed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "`{inviter}` hat dich eingeladen mit ihm `{minigame}` zu spielen.\nWillst du mit ihm spielen?",
+    "path": "command.minigame.invite.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Spiel, das du im Moment spielst, ist kein Mehrspieler-Spiel",
+    "path": "command.minigame.invite.not-multiplayer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst dich nicht selbst einladen",
+    "path": "command.minigame.invite.self"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{user} wurde erfolgreich zu `{minigame}` eingeladen",
+    "path": "command.minigame.invite.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame invite <@Member>",
+    "path": "command.minigame.invite.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Tritt einem Minispiel bei, das öffentlich geteilt wurde",
+    "path": "command.minigame.join.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es gibt keine Minispiele denen du beitreten kannst",
+    "path": "command.minigame.join.no-games"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Spiel, dem du beitreten möchtest, ist kein Mehrspieler-Spiel",
+    "path": "command.minigame.join.not-multiplayer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du bist dem Spiel `{minigame}` beigetreten.",
+    "path": "command.minigame.join.shared-game-started"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame join <Minispiel>",
+    "path": "command.minigame.join.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verlasse das aktuell laufende Spiel",
+    "path": "command.minigame.leave.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{user} hat das Spiel verlassen. Alle Spieler wurden automatisch entfernt.",
+    "path": "command.minigame.leave.multiplayer-autoleave"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiel erfolgreich verlassen",
+    "path": "command.minigame.leave.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame leave",
+    "path": "command.minigame.leave.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt dir eine Liste aller Minispiele an",
+    "path": "command.minigame.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spielbare Minispiele: `{minigames}`",
+    "path": "command.minigame.list.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame list",
+    "path": "command.minigame.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment spielst du kein Minispiel",
+    "path": "command.minigame.not-playing"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du spielst bereits ein anderes Spiel. Benutze `{prefix}minigame leave` um das andere Spiel zu verlassen.",
+    "path": "command.minigame.play.already-playing"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele unsere netten Minispiele alleine oder mit deinen Freunden",
+    "path": "command.minigame.play.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast folgendes Spiel gestartet: `{minigame}`. {multiplayer}",
+    "path": "command.minigame.play.game-started"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieses Minispiel gibt es leider (noch) nicht. Versuche es doch mit einem der Folgenden: `{minigames}`",
+    "path": "command.minigame.play.invalid-game"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Vergiss nicht deine Freunde einzuladen: Es ist ein Mehrspieler-Spiel",
+    "path": "command.minigame.play.multiplayer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame play <Minispiel>",
+    "path": "command.minigame.play.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "`{user}` wurde erfolgreich zu einer weiteren Runde `{minigame}` eingeladen. (Verwende `minigame leave` um es zu verlassen)",
+    "path": "command.minigame.rematch-invited"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst dieses Spiel nicht teilen, da das Spiel voll ist oder bereits läuft",
+    "path": "command.minigame.share.cant-share"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele ein Minispiel mit einer zufällig ausgewählten Person",
+    "path": "command.minigame.share.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst kein globales Minispiel teilen",
+    "path": "command.minigame.share.global-game"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Minispiel wurde öffentlich geschalten. Warte auf Mitspieler...",
+    "path": "command.minigame.share.shared"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame share",
+    "path": "command.minigame.share.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle aktuell geteilten Spiele eines Minispiels an",
+    "path": "command.minigame.shared.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame shared <Minispiel>",
+    "path": "command.minigame.shared.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast sehr interessante Spiel-Statistiken. Wenn du diesen Befehl verwendest, kannst du sie auch sehen :upside_down:",
+    "path": "command.minigame.stats.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "`{wins}` mal gewonnen\n`{losses}` mal verloren",
+    "path": "command.minigame.stats.line"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "**Deine Minispiel-Statistiken**",
+    "path": "command.minigame.stats.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}minigame stats",
+    "path": "command.minigame.stats.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du wurdest aus dem Minigame geworfen, da du zu lange nicht mit ihm interagiert hast.",
+    "path": "command.minigame.stopped"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Fügt eine Moderatorrolle hinzu",
+    "path": "command.modrole.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}modrole add <@Rolle>",
+    "path": "command.modrole.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} erfolgreich als Moderatorrolle hinzugefügt",
+    "path": "command.modrole.added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} wurde bereits als Moderratorrolle hinzugefügt",
+    "path": "command.modrole.already-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entfernt oder fügt Rollen hinzu, welche vom Auto-Moderator unantastbar sind. Moderatorrollen werden benachrichtigt, wenn jemand dem Supportkanal beitritt (falls einer ausgewählt wurde)",
+    "path": "command.modrole.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle Modrollen an",
+    "path": "command.modrole.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es keine Moderatorrollen",
+    "path": "command.modrole.list.no-roles"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}modrole list",
+    "path": "command.modrole.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es gibt keine Rollen mehr, die entfernt werden könnten",
+    "path": "command.modrole.no-roles"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diese Rolle ist momentan nicht auf der Liste der Moderatorrollen",
+    "path": "command.modrole.not-listed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne eine Moderatorrolle",
+    "path": "command.modrole.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}modrole remove <@Rolle>",
+    "path": "command.modrole.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle {role} von den Moderatorrollen entfernt",
+    "path": "command.modrole.removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verwalte deine Module",
+    "path": "command.module.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Deaktiviere ein Modul. Aber du wirst vermutlich nie ein Modul deaktivieren wollen...",
+    "path": "command.module.disable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieses Modul ist nicht aktiviert",
+    "path": "command.module.disable.not-enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Modul `{module}` erfolgreich deaktiviert",
+    "path": "command.module.disable.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}module disable <Modulname>",
+    "path": "command.module.disable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieses Modul ist bereits aktiviert",
+    "path": "command.module.enable.already-enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nutze weitere Fähigkeiten von Graphite",
+    "path": "command.module.enable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Modul `{module}` erfolgreich aktiviert",
+    "path": "command.module.enable.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}module enable <Modulname>",
+    "path": "command.module.enable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültiger Modulname. Gültige Namen sind `{modules}`",
+    "path": "command.module.invalid-module"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt eine Liste mit allen verfügbaren Modulen",
+    "path": "command.module.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verfügbare Module: ```\n{modules}\n```",
+    "path": "command.module.list.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}module list",
+    "path": "command.module.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Überprüfe das Gewicht deiner Geldbörse",
+    "path": "command.money.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast `{amount}`{emote_dollaronen}",
+    "path": "command.money.money"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Fliege :fly: in deiner Geldbörse hat sehr viel Platz: Du scheinst von Luft und Liebe zu leben. Wo ist all dein Geld hin?",
+    "path": "command.money.no-money"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}money",
+    "path": "command.money.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zerstöre dein Trommelfell mit äußerst viel Bass",
+    "path": "command.music.bassboost.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bassverstärkung deaktiviert",
+    "path": "command.music.bassboost.disabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ohr-aua-faktor x{level}",
+    "path": "command.music.bassboost.enabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Pegel muss eine Zahl zwischen 0 und {max_level} sein",
+    "path": "command.music.bassboost.invalid-level"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music bassboost <Level (0 - 3)>",
+    "path": "command.music.bassboost.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lass' dich von der Melodie tragen",
+    "path": "command.music.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment sind keine Lieder in der Warteschlange",
+    "path": "command.music.empty-queue"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele die gesamte Warteschlange in einer Endlosschleife",
+    "path": "command.music.endless.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music endless",
+    "path": "command.music.endless.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es kann nicht zu der angegebenen Position vorgespult werden",
+    "path": "command.music.fastforward.cannot-fast-forward"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spult das aktuell spielende Lied vor",
+    "path": "command.music.fastforward.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Lied wurde vorgespult",
+    "path": "command.music.fastforward.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music fastforward <Zeit>",
+    "path": "command.music.fastforward.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Springe zu einem bestimmten Lied in der Warteschlange",
+    "path": "command.music.jump.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bitte gib einen gültigen Wert ein",
+    "path": "command.music.jump.invalid-value"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wir springen in den Hyperraum und zum Track Nummer {index}",
+    "path": "command.music.jump.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music jump <Index>",
+    "path": "command.music.jump.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wiederhole das Lied, Wiederhole das Lied, Wiederhole das Lied...",
+    "path": "command.music.loop.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music loop",
+    "path": "command.music.loop.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es wird nach einem Liedtext gesucht...",
+    "path": "command.music.lyrics.author-searching"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Suche nach dem Liedtext für {song}. Die Liedtexte kommen von Genius und sind nicht immer perfekt.",
+    "path": "command.music.lyrics.author-searching-description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt den (bestmöglichen) Liedtext zu dem momentan spielenden Lied an",
+    "path": "command.music.lyrics.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es konnte kein Liedtext zum aktuellen Lied gefunden werden",
+    "path": "command.music.lyrics.no-results"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music lyrics",
+    "path": "command.music.lyrics.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Gib deinen Liedern mehr かわいい-Faktor ヽ(>∀<☆)ノ",
+    "path": "command.music.nightcore.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nightcore-Modus aktiviert! ＼(≧▽≦)／",
+    "path": "command.music.nightcore.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music nightcore",
+    "path": "command.music.nightcore.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment wird nichts abgespielt",
+    "path": "command.music.not-playing"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt Informationen über das Lied an, das gerade spielt",
+    "path": "command.music.nowplaying.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music nowplaying",
+    "path": "command.music.nowplaying.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Pausiere das aktuell spielende Lied",
+    "path": "command.music.pause.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lied pausiert, verwende `{prefix}music resume` um das pausierte Lied weiter abzuspielen.",
+    "path": "command.music.pause.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music pause",
+    "path": "command.music.pause.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Mache die Tonhöhe des Liedes extra ʰᵒᶜʰ oder ₜᵢₑ𝒻",
+    "path": "command.music.pitch.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Tonhöhe muss ein Wert zwischen {min_pitch} und {max_pitch} sein",
+    "path": "command.music.pitch.invalid-pitch"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Tonhöhe wurde zu {pitch}x geändert",
+    "path": "command.music.pitch.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music pitch <Tonhöhe (0.25 - 5)>",
+    "path": "command.music.pitch.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Autor",
+    "path": "command.music.play.author.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bassverstärkung",
+    "path": "command.music.play.bass-boost.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lied kann nicht abgespielt werden: `{error_message}`",
+    "path": "command.music.play.cannot-play"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aktuell spielendes Lied",
+    "path": "command.music.play.current-playing.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele Musik ab",
+    "path": "command.music.play.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Position\/Dauer",
+    "path": "command.music.play.duration.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es gab mehr als ein Ergebnis für deine Suchanfrage :thinking:",
+    "path": "command.music.play.more-than-one-result"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Tonhöhe",
+    "path": "command.music.play.pitch.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Position\/Dauer",
+    "path": "command.music.play.position-duration.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lied in die Warteschlange aufgenommen",
+    "path": "command.music.play.queued-track.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{number} Lieder in die Warteschlange hinzugefügt",
+    "path": "command.music.play.queued-track.field-title-multiple"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Geschwindigkeit",
+    "path": "command.music.play.speed.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lied\/Lieder insgesamt",
+    "path": "command.music.play.track-index-tracks.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lied nicht gefunden",
+    "path": "command.music.play.track-not-found"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lieder insgesamt",
+    "path": "command.music.play.tracks.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music play <Link oder Titel>",
+    "path": "command.music.play.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lösche eine Wiedergabeliste",
+    "path": "command.music.playlist.delete.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wiedergabeliste mit dem Namen `{name}` entfernt",
+    "path": "command.music.playlist.delete.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music playlist delete <Wiedergabelisten-Name>",
+    "path": "command.music.playlist.delete.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle deine eigene Wiedergabeliste",
+    "path": "command.music.playlist.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eine Wiedergabeliste mit diesem Namen existiert bereits",
+    "path": "command.music.playlist.duplicate-name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Wiedergabeliste mit dem angegebenen Namen konnte nicht gefunden werden",
+    "path": "command.music.playlist.invalid-playlist"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt all deine Wiedergabelisten an",
+    "path": "command.music.playlist.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music playlist list",
+    "path": "command.music.playlist.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele eine Wiedergabeliste ab",
+    "path": "command.music.playlist.play.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music playlist play <Wiedergabelisten-Name>",
+    "path": "command.music.playlist.play.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benenne eine Wiedergabeliste um",
+    "path": "command.music.playlist.rename.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Name der Wiedergabeliste kann nur alphanumerische Symbole und die Zeichen `-`, `_` oder ` ` beinhalten",
+    "path": "command.music.playlist.rename.invalid-name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wiedergabeliste `{name}` zu `{new_name}` umbenannt",
+    "path": "command.music.playlist.rename.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music playlist rename <Wiedergabelisten-Name> <Neuer Name>",
+    "path": "command.music.playlist.rename.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Speichere die aktuelle Warteschlange in eine Wiedergabeliste ab",
+    "path": "command.music.playlist.save.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wiedergabeliste mit dem Namen `{name}` abgespeichert",
+    "path": "command.music.playlist.save.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Wiedergabeliste kann nicht gespeichert werden, da kein Lied aus der Warteschlange gespeichert werden kann",
+    "path": "command.music.playlist.save.no-saveable-tracks"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Einige Lieder der aktuellen Wiedergabeliste fehlen, da sie nicht gespeichert werden können ({saved} \/ {total} gespeichert)",
+    "path": "command.music.playlist.save.unsaveable-tracks"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music playlist save [Name]",
+    "path": "command.music.playlist.save.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{playlist} > [Beinhaltet {tracks} Lied(er)]",
+    "path": "command.music.playlists.containing-tracks"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wiedergabelisten",
+    "path": "command.music.playlists.field-title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es existieren aktuell keine Wiedergabelisten :cry:",
+    "path": "command.music.playlists.no-playlists"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle Lieder in der Warteschlange in einer Liste an",
+    "path": "command.music.queue.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "[**#{index}**] `{duration}`\n{highlight}{author} | {title}{highlight}",
+    "path": "command.music.queue.format"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültige Seite. Die letzte Seite ist `{max_page}`",
+    "path": "command.music.queue.invalid-page"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "**[+]---[Aktuelle Warteschlange: {tracks} Lied(er) | Seite {page} \/ {max_page}]---[+]**\n\n{queue}\n",
+    "path": "command.music.queue.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music queue [Seite]",
+    "path": "command.music.queue.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entfernt ein Lied aus der Warteschlange",
+    "path": "command.music.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültiger Index. Der Index muss eine Zahl zwischen `{min_index}` und `{max_index}` sein",
+    "path": "command.music.remove.invalid-index"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Folgendes Lied wurde von der Warteschlange entfernt: `{track}`",
+    "path": "command.music.remove.removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music remove <Index>",
+    "path": "command.music.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Setze alle Wiedergabeeinstellungen zurück",
+    "path": "command.music.reset.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Alle Wiedergabeeinstellungen zu ihren Standardwerten zurückgesetzt",
+    "path": "command.music.reset.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music reset",
+    "path": "command.music.reset.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiele das pausierte Lied weiter",
+    "path": "command.music.resume.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das pausierte Lied wird nun weiter abgespielt",
+    "path": "command.music.resume.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music resume",
+    "path": "command.music.resume.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es kann nicht zu der angegebenen Position zurückgespult werden",
+    "path": "command.music.rewind.cannot-rewind"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spult das aktuelle Lied zurück",
+    "path": "command.music.rewind.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Lied wurde zurückgespult",
+    "path": "command.music.rewind.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music rewind <Zeit>",
+    "path": "command.music.rewind.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es konnte nicht zu der angegebenen Position vorgespult werden",
+    "path": "command.music.seek.cannot-seek"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Springe zu einer Position in dem Lied, das im Moment spielt",
+    "path": "command.music.seek.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Lied wurde zur angegebenen Stelle vor-\/zurückgespult",
+    "path": "command.music.seek.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music seek <Zeit>",
+    "path": "command.music.seek.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Deaktiviere den Wiederholungsmodus",
+    "path": "command.music.set-endless-false"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aktiviere den Wiederholungsmodus",
+    "path": "command.music.set-endless-true"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Mische die aktuelle Warteschlange",
+    "path": "command.music.shuffle.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Warteschlange wurde durchgemischt",
+    "path": "command.music.shuffle.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music shuffle",
+    "path": "command.music.shuffle.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Überspringe das Lied das im Moment spielt oder eine angegebene Anzahl von Liedern",
+    "path": "command.music.skip.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültige Anzahl",
+    "path": "command.music.skip.invalid-amount"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "`{amount}` Lied(er) wurde(n) übersprungen",
+    "path": "command.music.skip.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music skip [Anzahl]",
+    "path": "command.music.skip.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "MachdasLiedbesondersschnell oder g a n z l a n g s a m",
+    "path": "command.music.speed.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Geschwindigkeit muss ein Wert zwischen {min_speed} und {max_speed} sein",
+    "path": "command.music.speed.invalid-speed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Geschwindigkeit wurde zu {speed}x geändert",
+    "path": "command.music.speed.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music speed <Geschwindigkeit (0.25 - 5)>",
+    "path": "command.music.speed.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Stoppt den Musikspieler",
+    "path": "command.music.stop.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music stop",
+    "path": "command.music.stop.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das aktuelle Lied wird nun nicht mehr wiederholt :cry: :arrow_forward:",
+    "path": "command.music.unloop.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dreh' die Lautstärke auf",
+    "path": "command.music.volume.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültige Lautstärke. Die Lautstärke muss eine ganze Zahl zwischen 0 und 100 sein",
+    "path": "command.music.volume.invalid-volume"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lautstärke auf {volume} gesetzt",
+    "path": "command.music.volume.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}music volume <Lautstärke>",
+    "path": "command.music.volume.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{entity} hat bereits die von dir angegebene Berechtigung",
+    "path": "command.permission.add.already-has-permission"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Damit die Admins all das machen können, was sie müssen",
+    "path": "command.permission.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{entity} hat nun die Berechtigung `{permission}`",
+    "path": "command.permission.add.permission-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}permission add <@Role | @User | @everyone> <Berechtigung>",
+    "path": "command.permission.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erlaubte Erwähnungen: @User, @Rolle, @everyone",
+    "path": "command.permission.allowed-mention-types"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Prüfe auf eine angegebene Berechtigung",
+    "path": "command.permission.check.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{entity} hat die Berechtigung `{permission}`",
+    "path": "command.permission.check.has-permission"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{entity} hat die Berechtigung `{permission}` nicht",
+    "path": "command.permission.check.no-permission"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}permission check <@Rolle | @User | @everyone> <Berechtigung>",
+    "path": "command.permission.check.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Verwalte die Berechtigungen für eine Rolle oder einen Benutzer",
+    "path": "command.permission.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schau' dir die Berechtigungen von jemandem an",
+    "path": "command.permission.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Berechtigung geerbt von {entity}",
+    "path": "command.permission.list.inherited.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{entity} hat keine Berechtigungen :scream_cat:",
+    "path": "command.permission.list.no-permissions"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eigene Berechtigungen von {entity}",
+    "path": "command.permission.list.self.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}permission list <@Rolle | @User | @everyone>",
+    "path": "command.permission.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Damit die Admins nicht das machen können, was sie müssen",
+    "path": "command.permission.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{entity} hat die angegebene Berechtigung nicht :scream_cat:",
+    "path": "command.permission.remove.doesnt-have-permission"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{entity} hat nun nicht mehr die Berechtigung `{permission}` :scream_cat:",
+    "path": "command.permission.remove.permission-removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}permission remove <@Rolle | @User | @everyone> <Berechtigung>",
+    "path": "command.permission.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle eine neue Umfrage",
+    "path": "command.poll.create.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Dauer der Abstimmung muss mindestens 5 Minuten sein :alarm_clock:",
+    "path": "command.poll.create.duration-too-short"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ungültiger Emoji: {emoji}",
+    "path": "command.poll.create.invalid-emoji"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nein",
+    "path": "command.poll.create.message.multiple-votes.no"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Mehrfache Abstimmung möglich?",
+    "path": "command.poll.create.message.multiple-votes.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ja",
+    "path": "command.poll.create.message.multiple-votes.yes"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Optionen",
+    "path": "command.poll.create.message.options.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Abstimmmung endet am",
+    "path": "command.poll.create.message.poll-end.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Frage",
+    "path": "command.poll.create.message.question.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Insgesamt: {votes} Stimme(n) von {users} Mitglied(ern) abgegeben | Poll ID: {poll_id}",
+    "path": "command.poll.create.message.total"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}poll create <Frage> <Dauer (1d2h)> <akzeptiere mehrfache Abstimmung> <Option 1> <Option 2> [Option 3] [Option 4] [Option 5] ... [Option 15]",
+    "path": "command.poll.create.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle Abstimmungen",
+    "path": "command.poll.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle zurzeit laufenden Abstimmungen an",
+    "path": "command.poll.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "```Zurzeit laufende Abstimmungen:\n\n{polls}```",
+    "path": "command.poll.list.list"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zurzeit laufen keine Abstimmungen",
+    "path": "command.poll.list.no-polls"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}poll list",
+    "path": "command.poll.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Beendet eine Abstimmung",
+    "path": "command.poll.stop.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eine Abstimmung mit dieser :id: gibt es nicht",
+    "path": "command.poll.stop.invalid-poll"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Abstimmung wurde beendet :octagonal_sign:",
+    "path": "command.poll.stop.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}poll stop",
+    "path": "command.poll.stop.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ändere den Präfix (es muss ein Wort ohne Leerzeichen sein)",
+    "path": "command.prefix.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der angegebene Präfix ist ungültig: Es sind nur bis zu 16 alphanumerische Zeichen und `_-~.!` erlaubt",
+    "path": "command.prefix.invalid"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Serverpräfix wurde zu `{prefix}` geändert",
+    "path": "command.prefix.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}prefix <Präfix>",
+    "path": "command.prefix.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schlüssel `{key}` wurde erfolgreich zu deinem Benutzerkonto hinzugefügt",
+    "path": "command.premium.addkey.added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Löse einen Premium-Schlüssel ein",
+    "path": "command.premium.addkey.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieser Schlüssel ist nicht für mein Schloss :thinking: ... Hast du noch einen anderen?",
+    "path": "command.premium.addkey.invalid-key"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schlüssel wurde bereits eingelöst",
+    "path": "command.premium.addkey.key-already-redeemed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}premium addkey <Schlüssel>",
+    "path": "command.premium.addkey.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "All das ganze Premium-Zeugs",
+    "path": "command.premium.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt den Premium-Status von deinem Server an",
+    "path": "command.premium.level.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Premium-Level: `{level}`",
+    "path": "command.premium.level.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}premium level",
+    "path": "command.premium.level.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Löse deinen Schlüssel ein :key: :star2:",
+    "path": "command.premium.redeem.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieser Schlüssel ist nicht für mein Schloss :thinking: ... Hast du noch einen anderen?",
+    "path": "command.premium.redeem.invalid-key"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieser Schlüssel wird bereits verwendet",
+    "path": "command.premium.redeem.key-in-use"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast bereits einen Schlüssel für dieses Premium-Level eingelöst",
+    "path": "command.premium.redeem.key-match"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schlüssel erfolgreich eingelöst für : `{level}`",
+    "path": "command.premium.redeem.key-redeemed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}redeem <Schlüssel>",
+    "path": "command.premium.redeem.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne alle Kanäle\/Kategorien oder Rollen",
+    "path": "command.purge.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":boom: BOOOM! Dein Discord wurde gesäubert! :radioactive:",
+    "path": "command.purge.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}purge <channels | roles>",
+    "path": "command.purge.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Alle {what} (welche gelöscht werden können) werden gelöscht. Bist du dir sicher, dass du fortfahren möchtest?",
+    "path": "command.purge.warning"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du nimmst bereits auf",
+    "path": "command.record.already-recording"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lösche eine Aufnahme",
+    "path": "command.record.delete.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}record delete <Name>",
+    "path": "command.record.delete.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aufnahme `{id}` gelöscht",
+    "path": "command.record.deleted-recording"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nimm deine wohlklingende Stimme auf",
+    "path": "command.record.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lade eine Aufnahme herunter",
+    "path": "command.record.download.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}record download <Name>",
+    "path": "command.record.download.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eine Aufnahme mit dem angegebenen Namen konnte nicht gefunden werden",
+    "path": "command.record.invalid-recording"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeige alle existierenden Aufnahmen an",
+    "path": "command.record.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aufnahmen können mit `{prefix}record download <Name>` heruntergeladen werden",
+    "path": "command.record.list.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}record list",
+    "path": "command.record.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment bist du nicht in einem Sprachkanal.",
+    "path": "command.record.not-in-audiochannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Huch, soll ich aufnehmen? Tut mir wirklich leid, aber du hast die Aufnahme nicht gestartet :persevere:",
+    "path": "command.record.not-recording"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aufnahme in `{voice_channel}` von {user} gestartet",
+    "path": "command.record.recording"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Aufnahme ist zu groß für Discord, aber du kannst sie über unser [Webinterface]({webinterface}) herunterladen",
+    "path": "command.record.recording-too-large"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Eine Aufnahme mit diesem Namen existiert bereits",
+    "path": "command.record.rename.already-exists"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benenne eine Aufnahme um",
+    "path": "command.record.rename.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Name der Aufnahme kann nur alphanumerische Zeichen und `-`, `_` oder ` ` beinhalten",
+    "path": "command.record.rename.invalid-name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aufnahme `{name}` wurde erfolgreich zu `{new_name}` umbenannt",
+    "path": "command.record.rename.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}record rename <Name der Aufnahme> <Neuer Name>",
+    "path": "command.record.rename.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich komme mit in den Sprachkanal und nehme deine wohlklingende Stimme auf",
+    "path": "command.record.start.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}record start",
+    "path": "command.record.start.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aufnahme beenden",
+    "path": "command.record.stop.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}record stop",
+    "path": "command.record.stop.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Aufnahme wurde gestoppt. Der Name der Aufnahme ist: `{name}`. Du kannst sie über unser [Webinterface]({webinterface}) herunterladen",
+    "path": "command.record.stopped-recording"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Füge ein Subreddit hinzu",
+    "path": "command.reddit.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}reddit add <Subreddit> <#Textkanal>",
+    "path": "command.reddit.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wähle den Kanal aus, in dem der Bot die Subreddits reinschickt",
+    "path": "command.reddit.channel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}reddit channel <Subreddit> <#Textkanal>",
+    "path": "command.reddit.channel.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wird nicht von Reddit gesponsort :crying_cat_face:",
+    "path": "command.reddit.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich kann dieses Subreddit auf Reddit nicht finden",
+    "path": "command.reddit.invalid-subreddit"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne ein Subreddit {emote_error}",
+    "path": "command.reddit.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}reddit remove <Subreddit>",
+    "path": "command.reddit.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benachrichtigungskanal zu `{channel}` geändert",
+    "path": "command.reddit.set-channel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Subreddit hinzugefügt",
+    "path": "command.reddit.subreddit.added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieses Subreddit wurde bereits hinzugefügt",
+    "path": "command.reddit.subreddit.already-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Subreddit wurde entfernt",
+    "path": "command.reddit.subreddit.removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast den Benutzer bereits gemeldet",
+    "path": "command.report.already-reported"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bist du sicher, dass du dich selbst melden willst? Es soll doch niemand von deinen Untaten erfahren... :thinking:",
+    "path": "command.report.cant-report-self"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Melde schlimme Leute für schlimme Dinge",
+    "path": "command.report.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer {user} wurde erfolgreich mit dem Grund `{reason}` gemeldet",
+    "path": "command.report.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}report <@Member> <Grund>",
+    "path": "command.report.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entfernt die Meldung mit dem angegebenen Index",
+    "path": "command.reports-remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Meldung mit dem Index `{index}` entfernt",
+    "path": "command.reports-remove.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}reports remove <Index>",
+    "path": "command.reports-remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle momentan existierende Meldungen an",
+    "path": "command.reports.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es {reports} Meldung(en)",
+    "path": "command.reports.field.footer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "**[#{index}]** `{reporter}` hat `{reported}` gemeldet",
+    "path": "command.reports.field.head"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Grund: `{reason}`",
+    "path": "command.reports.field.values"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt alle bestehenden Meldungen an",
+    "path": "command.reports.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}reports list",
+    "path": "command.reports.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Im Moment gibt es keine Meldungen. Alles ist im grünen Bereich.",
+    "path": "command.reports.no-reports"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lösche ein Skript",
+    "path": "command.script.delete.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Skript existiert nicht",
+    "path": "command.script.delete.invalid-script"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Skript erfolgreich gelöscht",
+    "path": "command.script.delete.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}script delete <Name des Skripts>",
+    "path": "command.script.delete.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bändige Graphites Fähigkeiten nach deinem Willen",
+    "path": "command.script.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.script.download.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.script.download.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeige alle Skripts an",
+    "path": "command.script.list.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Deine Skripts: `{scripts}`",
+    "path": "command.script.list.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}script list",
+    "path": "command.script.list.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ein Skript mit diesem Namen existiert bereits. Benutze `{prefix}script upload <Name> true`, um es zu überschreiben.",
+    "path": "command.script.upload.already-exists"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lade ein Skript hoch",
+    "path": "command.script.upload.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Skript konnte nicht geladen werden:\n```\n{error}```",
+    "path": "command.script.upload.invalid-file"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Name deines Skripts entspricht nicht unseren Anforderungen (bis zu 16 alphanumerische Zeichen, Unter- und Bindestriche)",
+    "path": "command.script.upload.invalid-short"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Skript wurde erfolgreich hochgeladen",
+    "path": "command.script.upload.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das Skript kann nicht größer als 8 KiB sein. Tut mir leid",
+    "path": "command.script.upload.too-large"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}script upload <Skriptname> [Überschreiben] (+ angehängte Datei)",
+    "path": "command.script.upload.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Hilf deinen Nutzern mit Doodles von [Google Doodles](https:\/\/www.google.com\/doodles)",
+    "path": "command.support.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wähle eine Support-Warteschlange",
+    "path": "command.support.queue.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Supportwarteschlange zu `{channel}` geändert",
+    "path": "command.support.queue.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}support queue #!Sprachkanal",
+    "path": "command.support.queue.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Setze die Supportwarteschlange zurück",
+    "path": "command.support.unsetqueue.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Supportwarteschlange entfernt",
+    "path": "command.support.unsetqueue.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}support unsetqueue",
+    "path": "command.support.unsetqueue.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wählt ein Mitglied (ausgeschlossen Bots) per Zufallsprinzip aus diesem Textkanal aus",
+    "path": "command.tcrandom.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das zufällig ausgewählte Mitglied ist:\n> `{member_nick}` (`{member_full}`)",
+    "path": "command.tcrandom.picked"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}tcrandom",
+    "path": "command.tcrandom.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast diesen Benutzer bereits gebannt",
+    "path": "command.tempban.already-banned"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bannt den angegebenen Benutzer für die angegebene Zeit",
+    "path": "command.tempban.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer {user} für {duration} gebannt: `{reason}`",
+    "path": "command.tempban.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}tempban <@Member> <Dauer (1d2h)> [Grund]",
+    "path": "command.tempban.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":mute: + :clock2: = :speaker:",
+    "path": "command.tempchatmute.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer {user} für {duration} mit dem Grund `{reason}` stummgeschaltet",
+    "path": "command.tempchatmute.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}tempchatmute <@Member> <Dauer (1d2h)> [Grund]",
+    "path": "command.tempchatmute.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast den Benutzer bereits eingesperrt",
+    "path": "command.tempjail.already-jailed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst sie ja nicht immer lebenslänglich wegsperren",
+    "path": "command.tempjail.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":cloud_lightning: Du hast den Benutzer {user} für `{duration}` eingesperrt",
+    "path": "command.tempjail.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}tempjail <@Member> <Dauer (1d2h)> [Grund]",
+    "path": "command.tempjail.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bitte warte weitere {time} bevor du ein weiteres Tempalte erstellst",
+    "path": "command.template.create.cooldown"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schalte eine Person temporär stumm",
+    "path": "command.tempvoicemute.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer {user} temporär für {duration} stummgeschalten: `{reason}`",
+    "path": "command.tempvoicemute.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}tempvoicemute <@Member> <Dauer (1d2h)> [Grund]",
+    "path": "command.tempvoicemute.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.textcommands.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.textcommands.disable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.textcommands.disable.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.textcommands.disable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.textcommands.enable.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.textcommands.enable.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "command.textcommands.enable.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Füge einen Streamer hinzu",
+    "path": "command.twitch.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}twitch add <Streamer> <#Textkanal>",
+    "path": "command.twitch.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieser Streamer wurde bereits hinzugefügt.",
+    "path": "command.twitch.already-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wähle den Kanal, in dem der Bot die Live-Nachricht schickt",
+    "path": "command.twitch.channel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}twitch channel <Streamer> <#Textkanal>",
+    "path": "command.twitch.channel.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nicht von Twitch gesponsort",
+    "path": "command.twitch.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich kann den Streamer nicht auf Twitch finden",
+    "path": "command.twitch.invalid-streamer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wähle deine eigene Nachricht die angezeigt wird, wenn der angegebener Streamer live geht",
+    "path": "command.twitch.message.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}twitch message <Streamer> <Nachricht>",
+    "path": "command.twitch.message.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne einen Streamer",
+    "path": "command.twitch.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}twitch remove <Streamer>",
+    "path": "command.twitch.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Benachrichtungskanal wurde auf `{channel}` geändert",
+    "path": "command.twitch.set-channel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nachricht wurde zu `{message}` geändert",
+    "path": "command.twitch.set-message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich kann diesen Streamer nicht in deiner Streamer-Liste finden",
+    "path": "command.twitch.streamer-not-found"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Streamer hinzugefügt",
+    "path": "command.twitch.user.added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Streamer entfernt",
+    "path": "command.twitch.user.removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Füge Benachrichtigungen für einen Twitter-Nutzer hinzu",
+    "path": "command.twitter.add.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}twitter add <Benutzer> <#Textkanal>",
+    "path": "command.twitter.add.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieser Benutzer wurde bereits hinzugefügt",
+    "path": "command.twitter.already-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ändere den Kanal, in welchen der Bot Nachrichten reinschickt",
+    "path": "command.twitter.channel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}twitter channel <Benutzer> <#Textkanal>",
+    "path": "command.twitter.channel.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nicht gesponsort von Twitter :crying_cat_face:",
+    "path": "command.twitter.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich konnte diesen Twitter-Nutzer nicht finden :mag:",
+    "path": "command.twitter.invalid-user"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entferne einen Twitter-Nutzer",
+    "path": "command.twitter.remove.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}twitter remove <Nutzer>",
+    "path": "command.twitter.remove.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benachrichtigungskanal zu `{channel}` geändert",
+    "path": "command.twitter.set-channel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich kann diesen Nutzer nicht auf der Twitter-Liste finden :mag:",
+    "path": "command.twitter.user-not-found"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Twitter-Nutzer hinzugefügt",
+    "path": "command.twitter.user.added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Twitter-Nutzer entfernt",
+    "path": "command.twitter.user.removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Entbanne den angegebenen Nutzer",
+    "path": "command.unban.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer ist nicht gebannt",
+    "path": "command.unban.not-banned"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}unban <@Member> [Grund]",
+    "path": "command.unban.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Befreie das angegebene Mitglied",
+    "path": "command.unjail.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer ist nicht im Sprachkanal eingesperrt",
+    "path": "command.unjail.not-jailed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}unjail <@Member> [Grund]",
+    "path": "command.unjail.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer ist nicht stummgeschalten",
+    "path": "command.unmute.not-muted"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sei ein netter Nutzer und upvote den Bot",
+    "path": "command.upvote.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Stimme für den Bot auf [{site_name}]({upvote_url})",
+    "path": "command.upvote.field.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "**{site_name}**",
+    "path": "command.upvote.field.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Upvote den Bot",
+    "path": "command.upvote.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}upvote",
+    "path": "command.upvote.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle einen wahrhaftig einzigartigen Kanal in dem du der Chef bist",
+    "path": "command.userchannel.create.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}userchannel create <Name>",
+    "path": "command.userchannel.create.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast deinen eigenen Kanal erstellt. Du hast standardmäßig alle Berechtigungen für diesen Kanal :thinking:",
+    "path": "command.userchannel.created"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Lösche deinen eigenen Kanal und sei wieder ein Ottonormalverbraucher :thumbsup:",
+    "path": "command.userchannel.delete.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}userchannel delete",
+    "path": "command.userchannel.delete.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast deinen Benutzerkanal entfernt",
+    "path": "command.userchannel.deleted"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erstelle einen wahrhaftig einzigartigen Kanal in dem du der Chef bist",
+    "path": "command.userchannel.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast noch keinen Benutzerkanal",
+    "path": "command.userchannel.doesnt-exist"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst nur einen Benutzerkanal haben",
+    "path": "command.userchannel.one-per-member"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Befindet sich momentan nicht in einem Sprachkanal.",
+    "path": "command.userinfo.currently-in-audiochannel.none"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Momentan in einem Sprachkanal?",
+    "path": "command.userinfo.currently-in-audiochannel.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt Informationen über interessante Leute an",
+    "path": "command.userinfo.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Diskriminator",
+    "path": "command.userinfo.discriminator.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "ID",
+    "path": "command.userinfo.id.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Beigetreten",
+    "path": "command.userinfo.joined.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Name",
+    "path": "command.userinfo.name.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kein Spitzname ausgewählt",
+    "path": "command.userinfo.nickname.no-nickname"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spitzname",
+    "path": "command.userinfo.nickname.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ein- und Ausgabe deaktiviert?",
+    "path": "command.userinfo.self-deafened.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Stummgeschalten?",
+    "path": "command.userinfo.self-muted.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Kopfhörer durch Server deaktiviert?",
+    "path": "command.userinfo.server-deafened.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Durch Server stummgeschalten",
+    "path": "command.userinfo.server-muted.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Temporär gebannt?",
+    "path": "command.userinfo.temp-banned.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Temporär im Gefängnis?",
+    "path": "command.userinfo.temp-jailed.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Temporär stummgeschalten?",
+    "path": "command.userinfo.temp-muted.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Die Visitenkarte von {user}",
+    "path": "command.userinfo.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}userinfo <@Member>",
+    "path": "command.userinfo.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wählt ein Mitglied (ausgeschlossen Bots) per Zufallsprinzip aus dem Sprachkanal aus",
+    "path": "command.vcrandom.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Das zufällig ausgewählte Mitglied ist:\n> `{member_nick}` (`{member_full}`)",
+    "path": "command.vcrandom.picked"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}vcrandom",
+    "path": "command.vcrandom.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Erlaube einem Mitglied im Sprachkanal wieder zu sprechen",
+    "path": "command.voiceunmute.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}voiceunmute <@Member> [Grund]",
+    "path": "command.voiceunmute.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeigt Informationen über aktuelle Prozesse und andere nützliche Dinge an",
+    "path": "command.whatareyoudoing.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{prefix}whatareyoudoing",
+    "path": "command.whatareyoudoing.usage"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wahrheitswert",
+    "path": "customcommand.arg-type.boolean"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Farbe",
+    "path": "customcommand.arg-type.color"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ganze Zahl",
+    "path": "customcommand.arg-type.integer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rolle",
+    "path": "customcommand.arg-type.role"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Zeichenfolge",
+    "path": "customcommand.arg-type.string"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Textkanal",
+    "path": "customcommand.arg-type.text-channel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Benutzer",
+    "path": "customcommand.arg-type.user"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sprachkanal",
+    "path": "customcommand.arg-type.voice-channel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Der Argumenttyp für das Argument `{arg}` ist ungültig und sollte vom Typ `{type}` sein",
+    "path": "customcommand.invalid-arg-type"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "error.allowed-mention-type.message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast diesen Benutzer bereits stummgeschalten",
+    "path": "error.already-muted"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Diese Erwähnung ist mehrdeutig und spricht mehrere Personen an. Gib einen eindeutigen Benutzer an.\nSieh dir die [Dokumentation]({documentation_url}) an, um herauszufinden, wie man Erwähnungen formatiert.",
+    "path": "error.ambiguous-mention"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "error.argument-type.boolean"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "error.argument-type.integer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "error.argument-type.number"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ich scheine keine Berechtigung zu haben, in den angegebenen Kanal zu schreiben :thinking:. Der einfachste Weg das volle Potenzial des Bots freizuschalten ist, ihm die `Administrator`-Berechtigung zu geben. Ohne diese Berechtigung sind einige Fähigkeiten des Bots eventuell nicht verwendbar.",
+    "path": "error.bot-cannot-write"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Mit diesem Mitglied darf Ich leider nicht interagieren... :cry:",
+    "path": "error.cant-interact-member"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Mit dieser Rolle darf Ich leider nicht interagieren... :cry:",
+    "path": "error.cant-interact-role"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Tut mir sehr leid, aber Ich kann nicht in diesen Kanal schreiben. Bitte gib mir die Berechtigung `Send Messages` um Befehle zu verwenden",
+    "path": "error.cant-write"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "NOT_TRANSLATED",
+    "text": null,
+    "path": "error.choice-invalid"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Dies ist ein Befehl, den du nur im privaten Chat mit mir verwenden kannst :wink:",
+    "path": "error.command-private-only"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Du kannst diesen Befehl nur auf Servern verwenden",
+    "path": "error.command-server-only"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":warning: Ein unerwarteter Fehler ist aufgetreten. Hier ist ein Nerd-Text, der beschreibt was schief gelaufen ist: `{error_message}`",
+    "path": "error.exception"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":warning:\nGraphite ist bereits auf deinem Server, weshalb einige Features von anderen Multiplex-Bots deaktiviert werden.\nDu kannst die Multiplex-Bots immer noch für bestimmte Features verwenden, welche dies unterstützen (bspw. Musik)",
+    "path": "error.graphite-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Tut uns leid, aber du hast `250 Rollen in 24 Stunden` erstellt. Alle anderen Einstellungen werden wiederhergestellt. Wenn du deine Rollen auch wiederherstellen möchtest, stelle das Backup in circa 24 Stunden wieder her.",
+    "path": "error.hit-role-ratelimit.content"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dieses Limit wurde von Discord gesetzt und wir können nichts dagegen tun",
+    "path": "error.hit-role-ratelimit.footer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast das Limit zum Erstellen von Rollen erreicht",
+    "path": "error.hit-role-ratelimit.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Ungültige Dauer. Format: `2h30m` oder `1w2d1h10m`",
+    "path": "error.invalid-duration"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Ungültige Erwähnung.\nLies dir die [Dokumentation]({documentation_url}) durch, um herauszufinden, wie man Erwähnungen formatiert.",
+    "path": "error.invalid-mention"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Ungültiges Format beim Zeitstempel",
+    "path": "error.invalid-timestamp"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Du kannst nicht mit Bots interagieren",
+    "path": "error.is-bot"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Ich benötige die Berechtigung `{permission}` um diesen Wunsch zu erfüllen",
+    "path": "error.lacking-permission"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Du musst mindestens eine Dauer von `1 Minute` für eine temporäre Aktion auswählen.",
+    "path": "error.minimum-temp-duration"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Du hast nicht die benötigte Berechtigung `{permission}`",
+    "path": "error.no-permission"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Für diesen Slash-Befehl wurde keine Standardantwort eingestellt. Dies sollte natürlich nicht der Fall sein. Bitte melde diesen Fehler [auf unserem Discord-Server]({discord_url})",
+    "path": "error.no-slash-command-reply"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Diesen Benutzer sehe Ich hier nicht. Soll Ich ihn als vermisst melden?",
+    "path": "error.not-a-member"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Für diese Aktion muss der angegebene Benutzer in einem Sprachkanal sein. :ear_with_hearing_aid: :loud_sound:",
+    "path": "error.not-in-audiochannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_error} Um dies zu machen muss der angegebene Benutzer in einem Sprachkanal sein",
+    "path": "error.not-in-voicechannel"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Index ist außerhalb der Grenzen",
+    "path": "error.out-of-bounds"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Parameter #{index} muss vom Typ {type} sein",
+    "path": "error.script-invalid-arg-type"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":hot_face: Hilfe, du bist zu schnell. Bitte warte bis dein vorheriger Wunsch erfüllt wurde, bevor du weitere Wünsche äußerst :sweat:",
+    "path": "error.server-busy"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bitte versuche es erneut oder teile uns dieses Problem auf unserem [Discord-Server]({discord}) mit",
+    "path": "error.try-again"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Solltest du irgendwelche Fragen über unseren Bot haben, darfst du gerne auf unseren [Discord]({discord}) Server kommen oder das [FAQ]({faq} auf unserer [Website]({website}) ansehen. **Falls du irgendwelche Bugs findest, bitten wir dich diese auf unseren [Discord Server]({discord}) zu melden. Mit deiner Hilfe können wir es schaffen den Bot Bug-frei zu machen :smile_cat:**",
+    "path": "event.server-join.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Standardmäßig sind einige der Module unseres Modulsystems deaktiviert. Keine Sorge, du kannst sie über das [Webinterface]({webinterface}) oder mit dem folgenden Befehl aktivieren: `{prefix}module enable <Module>`. Um alle verfügbaren Module anzusehen, verwende den `{prefix}module list`.",
+    "path": "event.server-join.field.1.content"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":warning: Wichtig",
+    "path": "event.server-join.field.1.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wenn du mir `help` Befehl in unserem privaten Chat schickst, kannst du alle verwendbaren Befehle einsehen :smirk:. Wenn du `{prefix}help` oder `@Graphite help` auf einem Server schickst, kannst du alle Befehle einsehen, die auf dem Server verwendet werden können. **Wenn ein Modul deaktiviert ist, siehst du logischerweise auch keine Befehle von diesem Modul!**",
+    "path": "event.server-join.field.2.content"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":question: Hilfe\/Befehle",
+    "path": "event.server-join.field.2.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Standardmäßig ist der Präfix `g-`, wobei du den Bot auch mit `@Graphite` anregen kannst, dir einen Wunsch zu erfüllen, aber mit `{prefix}prefix <Neuer Präfix>` kannt du diesen auch ändern.",
+    "path": "event.server-join.field.3.content"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":bulb: Prefix",
+    "path": "event.server-join.field.3.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Graphites Fähigkeiten können mit Befehlen gebändigt werden, aber es ist einfacher, den Bot über unser [Webinterface]({webinterface}) zu verwenden.",
+    "path": "event.server-join.field.4.content"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":newspaper: Webinterface",
+    "path": "event.server-join.field.4.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wir sind immer offen, Graphite neue Fähigkeiten zu geben. Du kannst neue Ideen vorschlagen, wenn du auf unseren [Discord-Server]({discord}) kommst und uns deinen Vorschlag in den #suggestions-Kanal schickst.",
+    "path": "event.server-join.field.5.content"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": ":crying_cat_face: Kann der Bot dir deinen Wunsch nicht erfüllen? Findest du eine Fähigkeit nicht, welche der Bot haben sollte?",
+    "path": "event.server-join.field.5.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Willkommen in der Graphite-Community, {user}",
+    "path": "event.server-join.title"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Vor dem Spielstart musst du deine Schiffe auf dem Spielfeld verteilen. Wähle dazu eine X-Koordinate (von links nach rechts) und dann eine Y-Koordinate (von oben nach unten) und daraufhin die Richtung, in die das Boot zeigen soll (Pfeil nach rechts\/unten).\nSobald beide Spieler mit dem Verteilen fertig sind, darf der erste Spieler mit dem Schießen anfangen, indem er eine X- und eine Y-Koordinate auswählt. Danach ist Spieler 2 mit dem Schießen dran, dann wieder Spieler 1 usw..\nDas obere Spielfeld zeigt Informationen über das Feld deines Gegners und das Untere ist dein Spielfeld. Sobald ein Schiff untergegangen ist, wird es mit :boom: emojis ersetzt.",
+    "path": "minigame.battleships.help"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schiffe versenken",
+    "path": "minigame.battleships.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bitte gib einen Geldbetrag ein, den du verwetten willst :money_mouth:",
+    "path": "minigame.blackjack.bet"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Deine Wette kann nur zwischen `{min_bet}`{emote_dollaronen} und `{max_bet}`{emote_dollaronen} liegen",
+    "path": "minigame.blackjack.bet-limit"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast `{money}`{emote_dollaronen} mit deiner ersten Hand verloren",
+    "path": "minigame.blackjack.first-hand.lost"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es gab ein Unentschieden mit deiner ersten Hand und hast dein Geld zurück bekommen: `{money}`{emote_dollaronen}",
+    "path": "minigame.blackjack.first-hand.tied"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast `{money}`{emote_dollaronen} mit deiner ersten Hand gewonnen",
+    "path": "minigame.blackjack.first-hand.won"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bitte gib einen gültigen Betrag ein, mit dem du Wetten willst",
+    "path": "minigame.blackjack.invalid-bet"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Blackjack",
+    "path": "minigame.blackjack.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast nicht genügend Geld :money_with_wings:",
+    "path": "minigame.blackjack.not-enough-money"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast `{money}`{emote_dollaronen} mit deiner zweiten Hand verloren",
+    "path": "minigame.blackjack.second-hand.lost"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Es gab ein Unentschieden mit deiner zweiten Hand und hast dein Geld zurück bekommen: `{money}`{emote_dollaronen}",
+    "path": "minigame.blackjack.second-hand.tied"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast `{money}`{emote_dollaronen} mit deiner zweiten Hand gewonnen",
+    "path": "minigame.blackjack.second-hand.won"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du kannst dein Paar auf 2 Hände aufteilen.\nDu wirst zuerst die eine Hand spielen und wenn du fertig bist, kannst du die zweite Hand spielen, bevor der Dealer spielt.",
+    "path": "minigame.blackjack.split"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Vier gewinnt",
+    "path": "minigame.connect-four.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast leider verloren :cry:",
+    "path": "minigame.lost"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast 2 Koordinaten: x und y. Der erste Emoji, den du anklickst ist die x-Koordinate und der zweite die y-Koordinate. Wenn du eine Mine triffst ist das Spiel vorbei.",
+    "path": "minigame.minesweeper.help"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Minesweeper",
+    "path": "minigame.minesweeper.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Poker",
+    "path": "minigame.poker.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{user} hat deine Einladung zu einem weiterem Spiel abgelehnt",
+    "path": "minigame.rematch-invite-declined"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Willst du nocheinmal spielen? :repeat:",
+    "path": "minigame.replay"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Schere Stein Papier",
+    "path": "minigame.rock-paper-scissors.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Wähle deine Waffe mit viel Bedenken | Im Moment steht es: Du: `{score_self}` - Dein Gegner: `{score_other}`",
+    "path": "minigame.rock-paper-scissors.select"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "RPG ist ein textbasiertes Spiel, das du spielen kannst, indem du deine Handlungen in den Chat schreibst. Verwende `help`, um dir mögliche Handlungsvorschläge anzusehen",
+    "path": "minigame.rpg.help"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Tic Tac Toe",
+    "path": "minigame.tictactoe.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Unentschieden :unamused:",
+    "path": "minigame.tied"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast gewonnen und dir `{money}`{emote_dollaronen} verdient! :tada:",
+    "path": "minigame.won"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Hey, du hast ein Easter Egg gefunden. Dir wurden {money}{emote_dollaronen} auf deinen Graphite-Konto hinzugefügt",
+    "path": "other.found-an-easteregg"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Dein Wunsch wurde in die Warteschlange eingereiht. Je nachdem was gerade abgeht kann es einige Minuten :clock2: dauern, bis er erfüllt wird :magic_wand:. Wenn du eine schnellere Warteschlange willst, kannst du auf [Patreon]({patreon}) spenden",
+    "path": "other.heavy-busy"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Hey, der Benutzer `{users}` benötigt Support.",
+    "path": "other.joined-support-queue"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "{emote_info}\nDa du dich entschieden hast, Graphite auf deinen Server hinzuzufügen, wurden alle anderen Multiplex-Bots deaktiviert.\nKeine Sorge, denn all deine Einstellungen wurden automatisch zu Graphite übertragen",
+    "path": "other.multiplex-disabled"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nein,False",
+    "path": "other.no"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast bei dieser Umfrage bereits teilgenommen :writing_hand:",
+    "path": "other.poll.already-voted"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast für diese Option bei dieser Umfrage bereits gestimmt :writing_hand:",
+    "path": "other.poll.already-voted-option"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast erfolgreich für `{option}` gestimmt :writing_hand:",
+    "path": "other.poll.success"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Ja,True",
+    "path": "other.yes"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Danke für deine Unterstützung auf Patreon. Du hast den Rang `{rank}` für `{price} {currency}` bekommen. Du bekommst `{keys}` weitere Schlüssel für deine Freunde. Verteile die Macht von Graphite. :hearts:",
+    "path": "patreon.pledge-added"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Du hast deinen Patreon-Beitrag von `{old_pledge}` zu `{new_pledge}` geändert. Der neue Preis ist `{price} {currency}`. Deine zusätzlichen Schlüssel: `{keys}`. Verwende `{prefix}premium keys` um all deine Schlüssel einzusehen.",
+    "path": "patreon.pledge-changed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sehr schade, dass du deinen Patreon-Beitrag entfernst. Wenn du irgendeine Rückmeldung für den Bot hast, darfst du sie gerne mit uns auf unserem [Discord-Server]({discord_url}) teilen",
+    "path": "patreon.pledge-removed"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bekommen, da du so ein netter Patreon-Sponsor bist :heart:",
+    "path": "premium-key.type.patreon.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Niemals (außer du entscheidest dich nicht mehr zu spenden. :cry:)",
+    "path": "premium-key.type.patreon.expires"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Patreon-Schlüssel",
+    "path": "premium-key.type.patreon.friendly-name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Von den Besitzern des Bots bei besonderen Ereignissen vergeben",
+    "path": "premium-key.type.permanent.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nie",
+    "path": "premium-key.type.permanent.expires"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Permanenter Schlüssel",
+    "path": "premium-key.type.permanent.friendly-name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Möglich gemacht durch Voten oder durch das finden von Easter Eggs",
+    "path": "premium-key.type.temporary.description"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Temporärer Schlüssel",
+    "path": "premium-key.type.temporary.friendly-name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spender",
+    "path": "premium-level.donator"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Keines",
+    "path": "premium-level.none"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Bots",
+    "path": "statistic.bots.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Menschen",
+    "path": "statistic.humans.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Nachrichten-Emoji",
+    "path": "statistic.message-emoji.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Neuankömmlinge",
+    "path": "statistic.new-members.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Neue Nachrichten nach Kanal",
+    "path": "statistic.new-messages-by-channel.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Neue Nachrichten",
+    "path": "statistic.new-messages.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Reaktionen-Emoji",
+    "path": "statistic.reaction-emoji.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Rollen",
+    "path": "statistic.roles.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Textkanäle",
+    "path": "statistic.text-channels.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Anzahl aller Kanäle",
+    "path": "statistic.total-channels.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Anzahl der Mitglieder",
+    "path": "statistic.total-members.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sprachkanäle",
+    "path": "statistic.voice-channels.name"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Tag(e)",
+    "path": "time-unit.days"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Stunde(n)",
+    "path": "time-unit.hours"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Minute(n)",
+    "path": "time-unit.minutes"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Monat(e)",
+    "path": "time-unit.months"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Sekunde(n)",
+    "path": "time-unit.seconds"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Woche(n)",
+    "path": "time-unit.weeks"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Hey-Jo @everyone, {streamer} ist gerade live {link} :star_struck:",
+    "path": "twitch-notification.default-message"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Spiel",
+    "path": "twitch-notification.game"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Unbekannt",
+    "path": "twitch-notification.game-none"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Streamer",
+    "path": "twitch-notification.streamer"
+  },
+  {
+    "localeIdentifier": "de",
+    "status": "SUBMITTED",
+    "text": "Titel",
+    "path": "twitch-notification.title"
+  }
+]

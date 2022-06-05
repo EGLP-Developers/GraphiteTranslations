@@ -2,17 +2,17 @@ package me.mrletsplay.gtranslations.element;
 
 import java.util.function.Supplier;
 
-import me.mrletsplay.webinterfaceapi.html.HtmlElement;
-import me.mrletsplay.webinterfaceapi.webinterface.page.action.WebinterfaceAction;
-import me.mrletsplay.webinterfaceapi.webinterface.page.element.AbstractWebinterfacePageElement;
+import me.mrletsplay.simplehttpserver.dom.html.HtmlElement;
+import me.mrletsplay.webinterfaceapi.page.action.Action;
+import me.mrletsplay.webinterfaceapi.page.element.AbstractPageElement;
 
-public class TranslateArea extends AbstractWebinterfacePageElement {
+public class TranslateArea extends AbstractPageElement {
 	
 	private Supplier<String>
 		placeholder,
 		initialValue;
 	
-	private WebinterfaceAction onChangeAction;
+	private Action onChangeAction;
 	
 	public TranslateArea(Supplier<String> placeholder, Supplier<String> initialValue) {
 		this.placeholder = placeholder;
@@ -59,7 +59,7 @@ public class TranslateArea extends AbstractWebinterfacePageElement {
 		return initialValue;
 	}
 	
-	public void setOnChangeAction(WebinterfaceAction onChangeAction) {
+	public void setOnChangeAction(Action onChangeAction) {
 		this.onChangeAction = onChangeAction;
 	}
 	

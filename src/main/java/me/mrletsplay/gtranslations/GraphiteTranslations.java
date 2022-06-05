@@ -24,9 +24,10 @@ import me.mrletsplay.mrcore.io.IOUtils;
 import me.mrletsplay.mrcore.json.JSONArray;
 import me.mrletsplay.mrcore.json.JSONObject;
 import me.mrletsplay.mrcore.json.converter.JSONConverter;
+import me.mrletsplay.mrcore.json.converter.SerializationOption;
 import me.mrletsplay.mrcore.misc.FriendlyException;
-import me.mrletsplay.webinterfaceapi.webinterface.Webinterface;
-import me.mrletsplay.webinterfaceapi.webinterface.page.WebinterfacePageCategory;
+import me.mrletsplay.webinterfaceapi.Webinterface;
+import me.mrletsplay.webinterfaceapi.page.PageCategory;
 
 public class GraphiteTranslations {
 	
@@ -75,13 +76,14 @@ public class GraphiteTranslations {
 		
 		Webinterface.registerActionHandler(new WIHandler());
 		
-		WebinterfacePageCategory cat = Webinterface.createCategory("Translate");
+		PageCategory cat = Webinterface.createCategory("Translate");
 		
 		cat.addPage(new TranslationsPage());
 		cat.addPage(new TranslatePage());
 		cat.addPage(new ImportExportPage());
 		
 		Webinterface.start();
+		Webinterface.extractResources("/gtranslations-resources.list");
 		
 		Webinterface.getDocumentProvider().registerDocument("/t/next", new NextTranslationDocument());
 	}
@@ -125,7 +127,7 @@ public class GraphiteTranslations {
 	
 	public static void saveTranslationData() {
 		IOUtils.writeBytes(new File("translation-data.json"), new JSONArray(translationData.stream()
-				.map(t -> t.toJSON(false))
+				.map(t -> t.toJSON(SerializationOption.DONT_INCLUDE_CLASS))
 				.collect(Collectors.toList())).toFancyString().getBytes(StandardCharsets.UTF_8));
 	}
 	

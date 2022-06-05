@@ -1,0 +1,27 @@
+.translation-info {
+	display: grid;
+	grid-template-columns: max-content auto max-content max-content;
+	padding: 10px;
+	border-radius: 5px;
+	text-align: left;
+	align-items: center;
+	gap: 10px;
+}
+
+.translation-info .translation-status {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-color: pink;
+	border-radius: 50%;
+	cursor: help;
+}
+
+.translation-info button {
+	width: 40px;
+}
+
+.translation-info button > .iconify {
+	width: 1.5em;
+	height: 1.5em;
+}

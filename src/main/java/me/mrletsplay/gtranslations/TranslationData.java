@@ -77,7 +77,6 @@ public class TranslationData implements JSONConvertible {
 		
 		List<String> translationPlaceholders = new ArrayList<>();
 		
-
 		Matcher m = PLACEHOLDER_PATTERN.matcher(text);
 		while(m.find()) {
 			String ph = m.group("name");
