@@ -41,7 +41,7 @@ public class TranslationInfo extends AbstractPageElement {
 		p.addClass("translation-info");
 		
 		for(TranslationData d : data) {
-			boolean issues = !d.checkErrors().isEmpty();
+			boolean issues = !d.checkErrors().isEmpty() && d.getStatus() != TranslationStatus.ACCEPTED;
 			String statusMessage = issues ? "Possible Issues" : d.getStatus().getFriendlyName();
 			
 			HtmlElement status = new HtmlElement("div");

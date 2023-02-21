@@ -76,14 +76,14 @@
 	<pluginRepositories>
 		<pluginRepository>
 			<id>Graphite-Official</id>
-			<url>http://maven.graphite-official.com/</url>
+			<url>http://maven.graphite-official.com/releases</url>
 		</pluginRepository>
 	</pluginRepositories>
 	
 	<repositories>
 		<repository>
 			<id>graphite-official</id>
-			<url>https://maven.graphite-official.com/</url>
+			<url>https://maven.graphite-official.com/releases</url>
 		</repository>
 	</repositories>
 	

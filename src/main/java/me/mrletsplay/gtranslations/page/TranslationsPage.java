@@ -56,55 +56,6 @@ public class TranslationsPage extends Page {
 			
 			dt.sort(COMPARATOR);
 			
-//			for(TranslationData t : dt) {
-//				String background = "pink";
-//				String text = "???";
-//				
-//				switch(t.getStatus()) {
-//					case ACCEPTED:
-//						background = "limegreen";
-//						text = "Accepted";
-//						break;
-//					case SUBMITTED:
-//						background = "cornflowerblue";
-//						text = "Submitted";
-//						break;
-//					case NOT_TRANSLATED:
-//						background = "orangered";
-//						text = "Not Translated";
-//						break;
-//				}
-//				
-//				if(!t.checkErrors().isEmpty() && t.getStatus() != TranslationStatus.ACCEPTED) {
-//					background = "orange";
-//					text = "Possibly Contains Errors";
-//				}
-//				
-//				Group grp = new Group();
-//				grp.setGrid(new Grid().setColumns("3fr", "1fr", "200px"));
-//				grp.getStyle().setProperty("background-color", background);
-//				grp.getStyle().setProperty("border-radius", "5px");
-//				
-//				grp.addElement(Text.builder()
-//						.text(t.getPath())
-//						.leftboundText()
-//						.align(Align.CENTER)
-//						.create());
-//				
-//				grp.addElement(Text.builder()
-//						.text(text)
-//						.leftboundText()
-//						.align(Align.CENTER)
-//						.create());
-//				
-//				Button b = new Button("Translate");
-//				b.getStyle().setProperty("background-color", "rgba(0,0,0,0.25)");
-//				b.setOnClickAction(RedirectAction.to("/t/translate?locale=" + locale + "&path=" + t.getPath()));
-//				grp.addElement(b);
-//				
-//				els.add(grp);
-//			}
-			
 			els.add(new TranslationInfo(dt));
 		});
 		
